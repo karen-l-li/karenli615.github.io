@@ -1,3 +1,19 @@
 ﻿body
 {
+    background-color: white;
+}
+ul{
+    list-style-type:none;
+}
+nav {
+    background-color: black;
+    
+}
+li a{
+    display:block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+
+
 }
