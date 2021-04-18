@@ -10,10 +10,14 @@ nav {
     
 }
 li a{
-    display:block;
     color: white;
     text-align: center;
     text-decoration: none;
-
-
+    float:left;
+    display:block;
+   
+}
+li a:hover{
+    background-color: gray;
+    color: black;
 }
