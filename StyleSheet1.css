@@ -21,3 +21,8 @@ li a:hover{
     background-color: gray;
     color: black;
 }
+h1{
+    text-align: center;
+    font-family: Arial;
+    font-weight:700;
+}
