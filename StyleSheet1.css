@@ -1,28 +1,34 @@
 ﻿body
 {
-    background-color: white;
+    background-color: black;
 }
-ul{
+ul {
     list-style-type:none;
+    width: 100%;
+    height: 100%;
+    text-align:center;
 }
 nav {
-    background-color: black;
-    
+    background-color:dimgray;
 }
-li a{
+li a {
     color: white;
-    text-align: center;
     text-decoration: none;
-    float:left;
-    display:block;
+    float: left;
+    position: center;
+    margin: 10px;
    
 }
 li a:hover{
-    background-color: gray;
-    color: black;
+    color: gray;
 }
 h1{
-    text-align: center;
     font-family: Arial;
-    font-weight:700;
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+}
+h2{
+    color: white;
+    display: block;
 }

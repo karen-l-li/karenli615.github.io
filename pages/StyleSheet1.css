@@ -1,0 +1,28 @@
+﻿body
+{
+    background-color: white;
+}
+ul{
+    list-style-type:none;
+}
+nav {
+    background-color: black;
+    
+}
+li a{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    float:left;
+    display:block;
+   
+}
+li a:hover{
+    background-color: gray;
+    color: black;
+}
+h1{
+    text-align: center;
+    font-family: Arial;
+    font-weight:700;
+}
