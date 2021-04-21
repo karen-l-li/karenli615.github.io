@@ -24,6 +24,7 @@ li a {
     position: center;
     margin: 10px;
     font-weight: 700;
+    font-family: Arial;
 }
     li a:hover {
         color: gray;
