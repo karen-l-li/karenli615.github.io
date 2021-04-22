@@ -26,9 +26,9 @@ li a {
     font-weight: 700;
     font-family: Arial;
 }
-    li a:hover {
+li a:hover {
         color: gray;
-    }
+}
 h1 {
     font-family: Arial;
     color: white;
@@ -50,10 +50,8 @@ li{
 .hardskills {
      display: block;
      float: left;
-     
  }
-img{
-    
+img {
      height: 70px;
      width: 70px;
  }
@@ -74,12 +72,21 @@ img{
     margin-left: 150px;
     margin-right: 150px;
 }
-.project{
+.project1 {
     color: white;
-    margin-left: 100px;
-    margin-right: 900px;
+    margin-left: 10px;
+    margin-right: 60px;
 }
 iframe {
     height: 300px;
     width: 600px;
+}
+.project2 {
+    color: white;
+    margin-left: 10px;
+    margin-right: 60px;
+}
+.project3 {
+    color: white;
+    margin-right: 40px;
 }
